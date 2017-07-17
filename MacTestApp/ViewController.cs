@@ -27,7 +27,7 @@ namespace MacTestApp
             set
             {
                 base.RepresentedObject = value;
-                // Update the view, if already loaded.
+                // Update the view, if already loaded.#
             }
         }
     }
