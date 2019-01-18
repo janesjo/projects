@@ -6,6 +6,7 @@ namespace MacTestApp
     {
         static void Main(string[] args)
         {
+// Testing
             NSApplication.Init();
             NSApplication.Main(args);
         }
